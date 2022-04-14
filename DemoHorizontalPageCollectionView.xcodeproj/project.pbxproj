@@ -13,6 +13,7 @@
 		A64911E72807F2B60024FF37 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A64911E52807F2B60024FF37 /* Main.storyboard */; };
 		A64911E92807F2B80024FF37 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A64911E82807F2B80024FF37 /* Assets.xcassets */; };
 		A64911EC2807F2B80024FF37 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A64911EA2807F2B80024FF37 /* LaunchScreen.storyboard */; };
+		A64911F42807FC950024FF37 /* NumberCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A64911F32807FC950024FF37 /* NumberCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A64911E82807F2B80024FF37 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A64911EB2807F2B80024FF37 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A64911ED2807F2B80024FF37 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A64911F32807FC950024FF37 /* NumberCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				A64911E12807F2B60024FF37 /* SceneDelegate.swift */,
 				A64911E32807F2B60024FF37 /* ViewController.swift */,
 				A64911E52807F2B60024FF37 /* Main.storyboard */,
+				A64911F32807FC950024FF37 /* NumberCollectionViewCell.swift */,
 				A64911E82807F2B80024FF37 /* Assets.xcassets */,
 				A64911EA2807F2B80024FF37 /* LaunchScreen.storyboard */,
 				A64911ED2807F2B80024FF37 /* Info.plist */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A64911E42807F2B60024FF37 /* ViewController.swift in Sources */,
+				A64911F42807FC950024FF37 /* NumberCollectionViewCell.swift in Sources */,
 				A64911E02807F2B60024FF37 /* AppDelegate.swift in Sources */,
 				A64911E22807F2B60024FF37 /* SceneDelegate.swift in Sources */,
 			);
